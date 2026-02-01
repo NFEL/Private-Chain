@@ -2,7 +2,7 @@
   {
     "id": "dezone-lime",
     "title": "Dezone",
-    "group": [],
+    "group": "Mainnets",
     "name": "DeZone Network",
     "url": "https://explorer.lime.dezone.network",
     "shortName": "DeZone",
