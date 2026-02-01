@@ -1,0 +1,15 @@
+{
+  "categories": ["defi", "nft", "games", "social", "tools"],
+  "apps": [
+    {
+      "id": "dezone-swap",
+      "title": "DeZone Swap",
+      "description": "Decentralized token exchange on DeZone network",
+      "url": "https://swap.dezone.network",
+      "logo": "https://raw.githubusercontent.com/dezone-network/frontend-configs/main/assets/apps/dezone-swap.png",
+      "categories": ["defi"],
+      "author": "DeZone Team",
+      "isVerified": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "defi",
+    "name": "DeFi",
+    "icon": "currency-dollar"
+  },
+  {
+    "id": "nft",
+    "name": "NFT",
+    "icon": "photo"
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "icon": "puzzle"
+  },
+  {
+    "id": "social",
+    "name": "Social",
+    "icon": "users"
+  },
+  {
+    "id": "tools",
+    "name": "Tools",
+    "icon": "tool"
+  }
+]

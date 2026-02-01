@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "title": "Welcome to DeZone Marketplace",
+  "description": "Discover decentralized applications built on DeZone network",
+  "backgroundUrl": "https://raw.githubusercontent.com/dezone-network/frontend-configs/main/assets/marketplace-banner-bg.png",
+  "ctaText": "Explore Apps",
+  "ctaUrl": "/apps"
+}

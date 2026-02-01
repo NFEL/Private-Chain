@@ -1,0 +1,34 @@
+{
+  "columns": [
+    {
+      "title": "Company",
+      "links": [
+        { "text": "About", "url": "https://dezone.network/about" },
+        { "text": "Blog", "url": "https://blog.dezone.network" },
+        { "text": "Careers", "url": "https://dezone.network/careers" }
+      ]
+    },
+    {
+      "title": "Developers",
+      "links": [
+        { "text": "Documentation", "url": "https://docs.dezone.network" },
+        { "text": "GitHub", "url": "https://github.com/dezone-network" },
+        { "text": "Status", "url": "https://status.dezone.network" }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        { "text": "Discord", "url": "https://discord.gg/dezone" },
+        { "text": "Twitter", "url": "https://twitter.com/dezone_network" },
+        { "text": "Telegram", "url": "https://t.me/dezone_network" }
+      ]
+    }
+  ],
+  "social": [
+    { "icon": "twitter", "url": "https://twitter.com/dezone_network" },
+    { "icon": "discord", "url": "https://discord.gg/dezone" },
+    { "icon": "telegram", "url": "https://t.me/dezone_network" },
+    { "icon": "github", "url": "https://github.com/dezone-network" }
+  ]
+}
