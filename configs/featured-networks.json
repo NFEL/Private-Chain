@@ -1,11 +1,14 @@
 [
   {
     "id": "dezone-lime",
+    "title": "Dezone",
+    "group": [],
     "name": "DeZone Network",
+    "url": "https://explorer.lime.dezone.network",
     "shortName": "DeZone",
     "chainId": 48198,
     "rpcUrl": "https://rpc.lime.dezone.network",
-    "explorerUrl": "https://explorer.dezone.network",
+    "explorerUrl": "https://explorer.lime.dezone.network",
     "nativeCurrency": {
       "name": "DeZone",
       "symbol": "DZN",
