@@ -1,0 +1,9 @@
+[
+  {
+    "title": "DeZone Network",
+    "url": "https://explorer.dezone.network",
+    "group": "mainnets",
+    "icon": "https://raw.githubusercontent.com/dezone-network/frontend-configs/main/assets/dezone-icon.png",
+    "isActive": true
+  }
+]
